@@ -1,4 +1,4 @@
-import * as readlineSync from '../node_modules/readline-sync';
+import readlineSync from 'readline-sync';
 
 const askName = () => {
   const userName = readlineSync.question('May I have your name? ');
