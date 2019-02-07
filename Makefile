@@ -5,4 +5,4 @@ start:
 publish:
 	npm publish
 lint:
-	npx eslint src/index.js src/bin/brain-games.js
+	npx eslint src/
