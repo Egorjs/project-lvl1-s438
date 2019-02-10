@@ -1,6 +1,6 @@
 import gameConstructor from '..';
 import { cons } from 'hexlet-pairs';
-import { generateNumber } from '../utils';
+import generateNumber from '../utils';
 
 const gameDescription = 'What is the result of the expression?';
 
