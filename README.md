@@ -13,3 +13,5 @@
 example of installing the package version "1.2.0" and running the game [brain-calc](https://asciinema.org/a/9n5RjdoJwR6JNS8c0cupO46BT)
 
 example of installing the package version "1.3.0" and running the game [brain-progression](https://asciinema.org/a/bvN83iRaUe4IkmFSLw1TSRW2o)
+
+example of installing the package version "1.4.0" and running the game [brain-prime](https://asciinema.org/a/AyjRGMZLkgpHwN3rAaG3VYuDt)
